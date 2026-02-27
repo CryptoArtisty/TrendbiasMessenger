@@ -842,8 +842,12 @@
 // ============================================
 // TRADING BIAS MESSENGER - CONFIGURATION
 // ============================================
-const CLOUDFLARE_WORKER_URL = 'https://your-worker.your-subdomain.workers.dev'; // Replace with your worker URL
-const BOT_USERNAME = '@TradingBiasBot'; // Replace with your bot's username
+const VERCEL_API_URL = 'https://your-project.vercel.app/api/telegram'; // Your Vercel URL
+const BOT_USERNAME = '@TrendBiasBot'; // Your bot's username
+ 
+              //const CLOUDFLARE_WORKER_URL = 'https://your-worker.your-subdomain.workers.dev'; // Replace with your worker URL
+
+              //const BOT_USERNAME = '@TradingBiasBot'; // Replace with your bot's username
 
 // All available assets for dashboard
 const ALL_ASSETS = [
