@@ -842,7 +842,7 @@
 // ============================================
 // TRADING BIAS MESSENGER - CONFIGURATION
 // ============================================
-const VERCEL_API_URL = 'https://your-project.vercel.app/api/telegram'; // Your Vercel URL
+const VERCEL_API_URL = 'https://vercel.com/cryptoartists-projects?repo=https://github.com/CryptoArtisty/TrendbiasMessenger'; // Your Vercel URL
 const BOT_USERNAME = '@TrendBiasBot'; // Your bot's username
  
               //const CLOUDFLARE_WORKER_URL = 'https://your-worker.your-subdomain.workers.dev'; // Replace with your worker URL
